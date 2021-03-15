@@ -1,4 +1,4 @@
-package com.mac.bry.fx;
+package com.mac.bry.fx.firstWindow;
 import javafx.application.*;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
